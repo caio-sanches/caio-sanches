@@ -11,7 +11,7 @@
 
 **Aplicações e Dados**
 
-  ![Python](https://cdn.worldvectorlogo.com/logos/python-5.svg)
+  ![Python] <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="arduino" width="40" height="40"/>
 
 **Utilidades**
 
