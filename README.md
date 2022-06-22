@@ -12,12 +12,18 @@
 
 **SQL**
 
-<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="arduino" width="30" height="30"/>
+<img src="https://worldvectorlogo.com/logo/aws-redshift-logo" alt="Redshift" width="30" height="30"/>
+<img src="https://worldvectorlogo.com/logo/postgresql" alt="PostgreSQL" width="30" height="30"/>
+<img src="https://worldvectorlogo.com/logo/mysql-6" alt="MySQL" width="30" height="30"/>
+<img src="https://worldvectorlogo.com/logo/mariadb" alt="MariaDB" width="30" height="30"/>
+<img src="https://worldvectorlogo.com/logo/microsoft-sql-server-1" alt="SQL Server" width="30" height="30"/>
 
-**Utilidades**
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+**BI & Visualization Tools**
+
+  <img src="https://worldvectorlogo.com/logo/power-bi" alt="Power BI" width="30" height="30"/>
+  <img src="https://worldvectorlogo.com/logo/amazon-quicksight" alt="Amazon Quicksight" width="30" height="30"/>
+  <img src="https://worldvectorlogo.com/logo/google-data-studio" alt="Google DataStudio" width="30" height="30"/>
 
 **DevOps**
 
