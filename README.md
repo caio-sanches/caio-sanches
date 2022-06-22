@@ -10,36 +10,40 @@
 
 <h3> :rocket: &nbsp;Language and Tools: </h3>
 
-**SQL**
-
+**Databases**
 <img src="https://cdn.worldvectorlogo.com/logos/aws-redshift-logo.svg" alt="Redshift" width="30" height="30"/>
 <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="30" height="30"/>
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="30" height="30"/>
 <img src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" alt="MariaDB" width="30" height="30"/>
 <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="SQL Server" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="30" height="30"/>
 
 
 **BI & Visualization Tools**
+<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/amazon-quicksight.svg" alt="Amazon Quicksight" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg" alt="Google DataStudio" width="30" height="30"/>
 
-  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="30" height="30"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/amazon-quicksight.svg" alt="Amazon Quicksight" width="30" height="30"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg" alt="Google DataStudio" width="30" height="30"/>
 
-**DevOps**
+**Analysis**
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="Excel" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/google-sheets-full-logo-1.svg" alt="Google Sheets" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/google-analytics-1.svg" alt="Google Analytics" width="30" height="30"/>
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
-**Ferramentas de Desenvolvimento**
+**Cloud**
+<img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="AWS" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" alt="Azure" width="30" height="30"/>
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+
+**Developing**
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/pycharm-1.svg" alt="PyCharm" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" width="30" height="30"/>
 
 <br/>
 
