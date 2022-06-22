@@ -21,7 +21,7 @@
 
 **BI & Visualization Tools**
 
-  <img src="https://worldvectorlogo.com/logo/power-bi" alt="Power BI" width="30" height="30"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="30" height="30"/>
   <img src="https://worldvectorlogo.com/logo/amazon-quicksight" alt="Amazon Quicksight" width="30" height="30"/>
   <img src="https://worldvectorlogo.com/logo/google-data-studio" alt="Google DataStudio" width="30" height="30"/>
 
