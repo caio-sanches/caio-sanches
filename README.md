@@ -12,18 +12,18 @@
 
 **SQL**
 
-<img src="https://cdn.worldvectorlogo.com/logo/aws-redshift-logo.svg" alt="Redshift" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logo/postgresql.svg" alt="PostgreSQL" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logo/mysql-6.svg" alt="MySQL" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logo/mariadb.svg" alt="MariaDB" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logo/microsoft-sql-server-1.svg" alt="SQL Server" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/aws-redshift-logo.svg" alt="Redshift" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" alt="MariaDB" width="30" height="30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="SQL Server" width="30" height="30"/>
 
 
 **BI & Visualization Tools**
 
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="30" height="30"/>
-  <img src="https://cdn.worldvectorlogo.com/logo/amazon-quicksight.svg" alt="Amazon Quicksight" width="30" height="30"/>
-  <img src="https://cdn.worldvectorlogo.com/logo/google-data-studio.svg" alt="Google DataStudio" width="30" height="30"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-quicksight.svg" alt="Amazon Quicksight" width="30" height="30"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg" alt="Google DataStudio" width="30" height="30"/>
 
 **DevOps**
 
