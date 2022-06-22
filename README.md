@@ -2,10 +2,10 @@
 
 <h3> :man: &nbsp;about me </h3>
 
-- 🎓 &nbsp; Bachelor of Science in Accounting, who loves technology, creativity and business.
+- 🎓 &nbsp; Bachelor in Accounting, who loves technology, creativity and business.
 - 🤔 &nbsp; Adding value through data.
+- 💼 &nbsp; Analytics Engineer working with **Analytics & Business Intelligence** at <a href="https://laura-br.com/">Robô Laura</a>
 <!-- - 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>. -->
-- 💼 &nbsp; I'm working with **Analytics & Business Intelligence** at <a href="https://laura-br.com/">Robô Laura</a>
 <!-- - 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**. -->
 
 <h3> :rocket: &nbsp;Language and Tools: </h3>
@@ -13,7 +13,6 @@
 **SQL**
 
 <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="30" height="30"/>
-
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="arduino" width="30" height="30"/>
 
 **Utilidades**
