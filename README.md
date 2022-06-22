@@ -12,8 +12,7 @@
 
 **SQL**
 
-<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="30" height="30"/>
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="arduino" width="30" height="30"/>
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="arduino" width="30" height="30"/>
 
 **Utilidades**
 
