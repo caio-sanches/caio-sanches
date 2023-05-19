@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Bachelor in Accounting, who loves technology, creativity and business.
 - 🤔 &nbsp; Adding value through data.
-- 💼 &nbsp; Analytics Engineer working with **Analytics & Business Intelligence** at <a href="https://www.hostgator.com.br">HostGator</a>
+- 💼 &nbsp; Data Analyst at <a href="https://www.hostgator.com.br">HostGator</a>
 <!-- - 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>. -->
 <!-- - 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**. -->
 
